@@ -18,9 +18,9 @@ const AfterNavbar = () => {
                         </a>
                     </li>
                     <li>
-                        <span className="inline-flex gap-2 items-center text-[#06286E] text-[14px] inter-font font-[500]">
+                        <a className="inline-flex gap-2 items-center text-[#06286E] text-[14px] inter-font font-[500]">
                             Relation and Function
-                        </span>
+                        </a>
                     </li>
                 </ul>
             </div>
