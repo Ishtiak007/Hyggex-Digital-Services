@@ -15,3 +15,10 @@
 .montserrat-font {
     font-family: "Montserrat", sans-serif;
 }
+
+
+.border-gradient {
+    border: 1px solid;
+    border-image: linear-gradient(135deg,#217EEC 0%, #082299 100%);
+    border-image-slice: 1;
+  }

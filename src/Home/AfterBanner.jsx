@@ -5,7 +5,7 @@ const AfterBanner = () => {
     return (
         <div className='flex justify-between'>
             <div className='flex items-center gap-2'>
-                <div className='w-[70px] h-[70px]  shadow-2xl rounded-full'>
+                <div className='w-[60px] h-[60px]  shadow-2xl rounded-full'>
                     <img className='w-full h-full flex justify-center items-center' src={logo} alt="" />
                 </div>
                 <div>
