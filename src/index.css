@@ -7,3 +7,11 @@
 .inter-font {
   font-family: "Inter", sans-serif;
 }
+
+.custom-gradient {
+    background-image: linear-gradient(135deg, #051A91 0%, #061C93 0%, #2284F1 50%, #1F80EB 100%);
+  }
+
+.montserrat-font {
+    font-family: "Montserrat", sans-serif;
+}
